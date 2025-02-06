@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="40%">
-      <img src="YOUR_GIF_URL_HERE.gif" width="150" height="150" style="border-radius:50%">
+      <img src="https://tenor.com/en-GB/view/oz-oz-yarimasu-cute-anime-girl-heart-gif-15824704106392928134" width="150" height="150" style="border-radius:50%">
     </td>
     <td>
       <h3>🚀 Technologies & Tools</h3>
@@ -47,7 +47,7 @@
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankar-ghosh-9929a32bb)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_username)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agoodusername.avi)  
 
 ---
 
