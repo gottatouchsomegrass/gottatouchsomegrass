@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td width="40%">
-      <img src="https://tenor.com/en-GB/view/oz-oz-yarimasu-cute-anime-girl-heart-gif-15824704106392928134" width="150" height="150" style="border-radius:50%">
+    <td>
+      <img src="[https://tenor.com/en-GB/view/oz-oz-yarimasu-cute-anime-girl-heart-gif-15824704106392928134](https://media1.tenor.com/m/25ykirk3P4YAAAAd/oz-oz-yarimasu.gif)" width="150" height="150" style="border-radius:50%">
     </td>
     <td>
       <h3>🚀 Technologies & Tools</h3>
