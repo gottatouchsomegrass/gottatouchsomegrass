@@ -40,6 +40,10 @@
 
 ![Your GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gottatouchsomegrass&theme=dark)  
 
+## 📅 GitHub Contributions
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=gottatouchsomegrass&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
 ## 🏆 GitHub Achievements  
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gottatouchsomegrass&theme=darkhub)  
