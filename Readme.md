@@ -44,6 +44,8 @@
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=gottatouchsomegrass&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
+![GitHub Contributions Calendar](https://ghchart.rshah.org/gottatouchsomegrass)
+
 ## 🏆 GitHub Achievements  
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gottatouchsomegrass&theme=darkhub)  
