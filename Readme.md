@@ -38,11 +38,11 @@
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshutoshMishra1615&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gottatouchsomegrass&show_icons=true&theme=radical)
 
 ## 🔝 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshMishra1615&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gottatouchsomegrass&layout=compact&theme=radical)
 
 ## 📅 GitHub Contributions
 
