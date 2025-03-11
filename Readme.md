@@ -38,17 +38,21 @@
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gottatouchsomegrass&theme=dark)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshutoshMishra1615&show_icons=true&theme=radical)
+
+## 🔝 Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshMishra1615&layout=compact&theme=radical)
 
 ## 📅 GitHub Contributions
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=gottatouchsomegrass&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=gottatouchsomegrass&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![GitHub Contributions Calendar](https://ghchart.rshah.org/gottatouchsomegrass)
 
 ## 🏆 GitHub Achievements  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gottatouchsomegrass&theme=darkhub)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gottatouchsomegrass&theme=radical)  
 
 ## 📫 Connect With Me  
 
