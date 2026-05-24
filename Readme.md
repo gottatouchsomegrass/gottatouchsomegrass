@@ -126,7 +126,7 @@
 
 ## `$ cat ./stats.log`
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gottatouchsomegrass&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14&count_private=true&include_all_commits=true&cache_seconds=86400" height="160"/>
 
@@ -134,7 +134,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gottatouchsomegrass&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="160"/>
 
-</div>
+</div> -->
 
 <div align="center">
 
