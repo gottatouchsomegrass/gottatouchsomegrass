@@ -12,13 +12,13 @@
 {
   "name"     : "Dipankar Ghosh",
   "alias"    : "gottatouchsomegrass",
-  "role"     : "Fullstack Developer (Intern)",
+  "role"     : "Fullstack Developer",
   "frontend" : "Next.js · React · TypeScript · Tailwind CSS",
-  "backend"  : "Go · Python · Node.js · FastAPI · Express",
-  "infra"    : "Docker · PostgreSQL · MongoDB · Firebase",
+  "backend"  : "Go · FastAPI · Express",
+  "infra"    : "Docker · PostgreSQL · MongoDB · Firebase · AppWrite",
   "editor"   : "Neovim",
   "os"       : "Linux (btw)",
-  "currently": "Building Livyo",
+  "currently": "AWS Foundations",
   "contact"  : "gottatouchsomegrass69@gmail.com"
 }
 ```
@@ -128,15 +128,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gottatouchsomegrass&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gottatouchsomegrass&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14&count_private=true&include_all_commits=true" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gottatouchsomegrass&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gottatouchsomegrass&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=c9d1d9&langs_count=8" height="160"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gottatouchsomegrass&theme=radical&hide_border=true&background=0d0d0d&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=c9d1d9&stroke=39FF14" height="160"/>
 
 </div>
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=gottatouchsomegrass&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gottatouchsomegrass&bg_color=0d0d0d&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
